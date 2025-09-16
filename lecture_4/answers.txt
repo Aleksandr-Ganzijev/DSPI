@@ -1,0 +1,7 @@
+5.
+There are 191 active drivers on my system
+My wifi and network drivers are located in C:\Windows\System32\DriverStore\FileRepository\ and their names are netwtw6e.inf_amd64_14f5374e2f00286a;netvwifibus.inf_amd64_ab4e111fe8221178
+6.1
+My browser uses 1.2% of my CPU, though it can decrease up to 0.1% when the task manager is open. It uses 1255.8 MB of RAM
+6.2
+C:\Program Files\Mozilla Firefox\firefox.exe

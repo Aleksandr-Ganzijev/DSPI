@@ -1,0 +1,26 @@
+TASK 4
+1. CPU: 
+Model: 13th Gen Intel(R) Core(TM) i7-13620H
+Number of cores: 10
+Core speed: 2.40 GHz
+2. RAM: 
+PartNumber/Model: H58G56BK7BX068
+speed:4800 MT/s
+RAM 16 GB
+3. GPU: 
+Model: NVIDIA GeForce RTX 4050 Laptop GPU
+Dedicated GPU memory: 6 GB
+4. BIOS: 
+Manufacturer: Dell inc. 
+version:1.23.0 
+Release date: 7/3/25
+TASK 5
+Boot order: 
+1 Windows Boot Manager
+2 UEFI RST BG6 KIOXIA 1024GB (SSD)
+3 UEFI HTTPS Boot
+Yes, my computer can boot from USB, but it only appears in the boot list when a bootable USB is connected
+TASK 6
+Current resolution: 2560x1600
+When putting screen in portrait mode, it turned 90 degrees to the right
+When putting screen into 800x600 the screen turned really small and everything appeared more pixilated

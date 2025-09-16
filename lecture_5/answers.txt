@@ -1,0 +1,15 @@
+4.1
+Ip address through ifconfig.me:145.118.194.232
+Local ip: IPv4 Address: 145.118.194.232
+Default Gateway: 145.118.192.1
+4.2
+Overall the ip addresses are the same since I'm using the same wifi network to connect to the school vpn, as I'm currently in the university the ip is the same. However through local ip there is now an unknown adapter OpenVPN Wintun which shows that Ipv4 address is 145.138.209.32
+4.3
+Both my IP and gateway are public.
+4.4
+The geolocation of my ip is Netherlands, the Hague
+4.5
+First hop is my local gateway, inside the university network
+Last hop is the destination server, google in Amsterdam
+4.6
+Amsterdam, Netherlands

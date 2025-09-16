@@ -1,0 +1,20 @@
+77 6F 72 6C 64
+0x00001840
+0x0000003E 1 bit
+0x00000036 24 bit
+When I try to run hello_world.exe it says that my pc can't run the file
+Changing the extension did not change the bytes inside the file
+A window pops up asking what to save the file as after making it read-only, because you can not save it under the same name
+1. I have 1 physical disk on my laptop
+2. Disk Model: NVMe BG6 KIOXIA 1024GB
+   Capacity: 1024 GB (1 TB)
+   Read Speed: 6000 MB/s
+   Write Speed: 5300 MB/s
+3. The disk has 6 partitions:
+   - Partition 1 (200 MB): EFI System Partition (boot loader)
+   - Partition 2 (128 MB): Microsoft Reserved Partition (MSR)
+   - Partition 3 (992 GB): OS (C:) partition containing Windows and user files
+   - Partition 4 (1 GB): WINRETOOLS (Windows Recovery tools)
+   - Partition 5 (29 GB): Image partition (factory restore image)
+   - Partition 6 (1.5 GB): DELLSUPPORT (Dell support and diagnostics
+
