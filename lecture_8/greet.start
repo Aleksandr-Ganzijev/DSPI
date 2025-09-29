@@ -1,0 +1,19 @@
+var Petya is number
+var Kolya is number
+var name1 is text
+var name2 is text
+Petya=17
+Kolya=23
+name1="Petya"
+name2="Kolya"
+function beer is number
+    arg a is number
+start
+    return a>=18
+end
+print("Hello,",name1,"!")
+print("Welcome to the DSPI course!")
+print("Drink beer:",beer(Petya))
+print("Hello,",name2,"!")
+print("Welcome to the DSPI course!")
+print("Drink beer:",beer(Kolya))
