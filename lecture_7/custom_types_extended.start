@@ -1,0 +1,30 @@
+type savings start
+    var s1 is number
+    var s2 is number
+    var s3 is number
+end
+
+
+var my_savings is savings
+my_savings -> savings()
+my_savings.s1 -> 1000
+my_savings.s2 -> 15000
+my_savings.s3 -> 932
+
+var total_savings is number
+total_savings->my_savings.s1+my_savings.s2+my_savings.s3
+
+type client start
+    var name is text
+    var savings is savings
+    var total_savings is number
+end
+
+
+var bank_account is client
+bank_account->client()
+bank_account.name->"Test"
+bank_account.savings->my_savings
+bank_account.total_savings->total_savings
+
+print ( " My back account details : " , bank_account )

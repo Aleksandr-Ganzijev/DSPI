@@ -1,0 +1,15 @@
+var country is text
+var country_viewers is number
+var total_viewers is number
+var percentage is number
+print("input country")
+country=input_text()
+print("input number of viewers in country")
+country_viewers=input_number()
+print("input total number of viewers")
+total_viewers=input_number()
+percentage=country_viewers/total_viewers*100
+print("What is the total number of viewers:",total_viewers)
+print("Where are the specific viewers from :",country)
+print("What number of viewers is from",country,":",country_viewers)
+print("The percentage of viewers from",country,"is :",percentage,"%")

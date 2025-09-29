@@ -1,0 +1,11 @@
+var x is number
+x->10
+type list start
+    number[*]
+end
+var grades is list
+grades->list(x,x,x,x,x)
+
+print ( grades )
+grades [ 0 ] := 42
+print ( grades )

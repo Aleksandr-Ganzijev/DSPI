@@ -1,0 +1,14 @@
+var pass is number
+var g is number
+var b is number
+pass=6
+type numbers start
+    number[*]
+end
+var grades is numbers
+grades=numbers(5,10,3.5,4,7)
+g=(>=(grades[0],pass)+>=(grades[1],pass)+>=(grades[2],pass)+>=(grades[3],pass)+>=(grades[4],pass))
+b=(<(grades[0],pass)+<(grades[1],pass)+<(grades[2],pass)+<(grades[3],pass)+<(grades[4],pass))
+print("Given the grades",grades)
+print(g,"passing grade(s); a pass is 6 or higher.")
+print(b,"failing grade(s); a fail is lower than 6")

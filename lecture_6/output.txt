@@ -1,0 +1,7 @@
+(base) PS C:\Users\aleks\PyCharmMiscProject> python example.py
+What is your name? Alex
+Welcome to start Alex!
+What is your favorite number? 69
+Based on your number, I think the following calculation will result in the number 42.
+Calculating answer ...
+The answer is: 42

@@ -1,0 +1,17 @@
+# declare p and q
+var p is number
+var q is number
+var and is number
+var or is number
+
+# table header
+print("p | q | p and q | p or q")
+print("------------------------")
+
+print(1, "|", 1, "|   ",1&1,"   |  ", 1|1)
+
+print(1, "|", 0, "|   ", 1&0, "   |  ", 1|0)
+
+print(0, "|", 1, "|   ", 0&1, "   |  ", 0|1)
+
+print(0, "|", 0, "|   ", 0&0, "   |  ", 0|0)

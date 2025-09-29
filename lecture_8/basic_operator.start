@@ -1,0 +1,15 @@
+var a is number
+var b is number
+var firstname is text
+var lastname is text
+var sum is number
+var difference is number
+var full_name is text
+a=5
+b=7
+firstname="Max"
+lastname="Caulfield"
+sum=a+b
+difference=a-b
+full_name=firstname++" "++lastname
+print("The sum of a and b is",sum,"the difference is",difference,"a and b (logical AND) is ",a&b,", a smaller than b is",a<b,"the full name is",full_name)

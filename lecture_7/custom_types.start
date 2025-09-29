@@ -1,0 +1,15 @@
+type savings start
+    var s1 is number
+    var s2 is number
+    var s3 is number
+end
+var my_savings is savings
+my_savings -> savings()
+my_savings.s1 -> 1000
+my_savings.s2 -> 15000
+my_savings.s3 -> 932
+
+var total_savings is number
+total_savings->my_savings.s1+my_savings.s2+my_savings.s3
+print ( " My savings accounts have the following amounts : " , my_savings )
+print ( " which total : " , total_savings )
